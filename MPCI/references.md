@@ -45,17 +45,20 @@ https://d1wqtxts1xzle7.cloudfront.net/87587674/395358181-libre.pdf?1655363610=&r
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=6c47ff1407596cec6cb116b3c28f036194d3b625
 **Kept:** Study about a possible weakness of OOP implementations.
 
-> A quantitative and qualitative assessment of aspectual feature modules for evolving software product lines (2014):
+> ~~A quantitative and qualitative assessment of aspectual feature modules for evolving software product lines (2014):
 https://www.sciencedirect.com/science/article/pii/S0167642314001336
-https://pdf.sciencedirectassets.com/271600/1-s2.0-S0167642314X00298/1-s2.0-S0167642314001336/main.pdf
+https://pdf.sciencedirectassets.com/271600/1-s2.0-S0167642314X00298/1-s2.0-S0167642314001336/main.pdf~~
+**Trimmed:** Erroneous addition (the article isn't refering to OOP).
 
 > Empirical analysis of programming language adoption (2013):
 https://dl.acm.org/doi/abs/10.1145/2509136.2509515
 https://lmeyerov.github.io/projects/socioplt/papers/oopsla2013.pdf
+**Kept:** A very solid study about how developers choose programming languages.
 
 > The adoption of new technology: the case of object-oriented computing in software companies (2000):
 https://ieeexplore.ieee.org/abstract/document/820730
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=820730
+**Kept:** Very relevant study about adoption of new technologies in companies.
 
 > Adoption of Software Engineering Process Inovations: The Case of Object Orientation (1993):
 https://www.researchgate.net/profile/Chris-Kemerer/publication/239583404_Adoption_of_software_engineering_process_innovations_The_case_of_object_orientation/links/0a85e536b7945d716d000000/Adoption-of-software-engineering-process-innovations-The-case-of-object-orientation.pdf
