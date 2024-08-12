@@ -49,12 +49,12 @@ https://www.sciencedirect.com/science/article/pii/0005109894901066
 https://pdf.sciencedirectassets.com/271426/1-s2.0-S0005109800X01884/1-s2.0-0005109894901066/main.pdf <br>
 **Kept:** The same as the one before.~~ <br>
 **Trimmed:** Six articles with the same theme, trimming some of them. 
-### Questionable
 > Another metric suite for object-oriented programming (1998): 
 https://www.sciencedirect.com/science/article/pii/S0164121298100523
 https://pdf.sciencedirectassets.com/271629/1-s2.0-S0164121200X00532/1-s2.0-S0164121298100523/main.pdf <br>
 ~~**Kept:** Slighly useful (talks about metrics to evaluating OOP efficiency).~~ <br>
-**Questionable:** "State-of-the-Art Object-Oriented Metrics and Its Reusability: A Decade Review" is far more modern.
+~~**Questionable:** "State-of-the-Art Object-Oriented Metrics and Its Reusability: A Decade Review" is far more modern.~~
+**Trimmed:** Considering the sheer number of articles still to remove, this one is weak enough to go.
 
 </details>
 
