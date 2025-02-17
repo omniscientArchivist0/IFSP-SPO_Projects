@@ -3,7 +3,7 @@
   - https://theapplewiki.com/wiki/Kernel_Syscalls -> It contains the syscalls of the XNU kernel and how they work.
   - https://theapplewiki.com/wiki/Kernel_ASLR -> Obfuscation method used by Apple to stop/halt modifications of the kernel behaviour through changes in static memory addresses.
   - https://theapplewiki.com/wiki/Kernel_Symbols -> Information regarding XNU symbols.
-  - https://theapplewiki.com/wiki/Task and https://theapplewiki.com/wiki/Kernel_Task -> Information regarding Mash's Tasks (a micro-kernel implementation of a process).
+  - https://theapplewiki.com/wiki/Task and https://theapplewiki.com/wiki/Kernel_Task -> Information regarding Mach's Tasks (a micro-kernel implementation of a process).
 - https://en.wikipedia.org/wiki/XNU -> XNU information.
 - https://en.wikipedia.org/wiki/Darwin_(operating_system) -> Darwin information.
 - https://github.com/apple-oss-distributions/xnu -> Apple's XNU open-source distribution.
