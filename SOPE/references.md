@@ -1,3 +1,4 @@
+## References
 - https://theapplewiki.com/wiki/Kernel -> Main reference. A website focused into gathering, grouping and distributing information regarding Apple products (especially iOS) for jailbreaking purposes. It has the most detailed information on the subject.
   - https://theapplewiki.com/wiki/Kernel_Syscalls -> It contains the syscalls of the XNU kernel and how they work.
   - https://theapplewiki.com/wiki/Kernel_ASLR -> Obfuscation method used by Apple to stop/halt modifications of the kernel behaviour through changes in static memory addresses.
