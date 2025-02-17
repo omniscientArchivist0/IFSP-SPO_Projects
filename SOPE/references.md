@@ -1,0 +1,18 @@
+- https://theapplewiki.com/wiki/Kernel -> Main reference. A website focused into gathering, grouping and distributing information regarding Apple products (especially iOS) for jailbreaking purposes. It has the most detailed information on the subject.
+  - https://theapplewiki.com/wiki/Kernel_Syscalls -> It contains the syscalls of the XNU kernel and how they work.
+  - https://theapplewiki.com/wiki/Kernel_ASLR -> Obfuscation method used by Apple to stop/halt modifications of the kernel behaviour through changes in static memory addresses.
+  - https://theapplewiki.com/wiki/Kernel_Symbols -> Information regarding XNU symbols.
+  - https://theapplewiki.com/wiki/Task and https://theapplewiki.com/wiki/Kernel_Task -> Information regarding Mash's Tasks (a micro-kernel implementation of a process).
+- https://en.wikipedia.org/wiki/XNU -> XNU information.
+- https://en.wikipedia.org/wiki/Darwin_(operating_system) -> Darwin information.
+- https://github.com/apple-oss-distributions/xnu -> Apple's XNU open-source distribution.
+- https://github.com/apple-oss-distributions/distribution-iOS -> Apple's iOS open-source distribution.
+- https://www.puredarwin.org -> Project to make Darwin work.
+- https://developer.apple.com/library/archive/documentation/Darwin/Conceptual/KernelProgramming/About/About.html#//apple_ref/doc/uid/TP30000905-CH204-TPXREF101 -> Official documentation regarding OS X (MacOS) architecture, which could be extrapolated to iOS in matters of kernel and memory management.
+- https://shakuro.com/blog/ios-memory-management -> Memory Management information regarding iOS
+- https://support.apple.com/en-sg/guide/security/sec8b776536b/web -> Apple Security docs
+- https://www.youtube.com/watch?v=07VqX4bbXTI -> Driver related vulnerabilities in iOS
+- https://en.wikipedia.org/wiki/Automatic_Reference_Counting -> How ARC works
+- https://www.sstic.org/media/SSTIC2022/SSTIC-actes/an_apple_a_day/SSTIC2022-Article-an_apple_a_day-benoist-vanderbeken_perigaud.pdf -> Security features in iOS
+- https://www.gnu.org/software/hurd/gnumach-doc/Major-Concepts.html#Major-Concepts -> How Mach's IPC works
+- https://en.wikipedia.org/wiki/Mach_(kernel) -> An explanation of what is and how Mach works.
