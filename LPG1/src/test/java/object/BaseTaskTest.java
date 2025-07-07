@@ -14,7 +14,7 @@ public class BaseTaskTest {
     }
 
     @Test
-    void isTaskUpdating() {
+    void isTaskDateUpdating() {
         var currentDate = ZonedDateTime.now();
         var sampleTask = genericTask(currentDate);
         assertEquals(currentDate, sampleTask.getDate());
